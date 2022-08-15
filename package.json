@@ -23,6 +23,7 @@
 	},
 	"dependencies": {
 		"@codemirror/tooltip": "^0.19.16",
-		"axios": "^0.27.2"
+		"axios": "^0.27.2",
+		"lodash": "^4.17.21"
 	}
 }
